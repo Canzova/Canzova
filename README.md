@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canzova&label=Profile%20views&color=0e75b6&style=flat" alt="canzova" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C++, Web development**
+- 💬 Ask me about **DSA, Web development**
 
 - 📫 How to reach me **nihalsingh.work@gmail.com**
 
